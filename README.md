@@ -1,4 +1,7 @@
 js-commons
 ==========
 
-Personal common javascript utilities
+Personl collection of common javascript utilities.
+
+## Documenation
+
