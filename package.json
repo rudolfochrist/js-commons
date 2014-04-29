@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/rudolfochrist/js-commons/issues"
   },
-  "homepage": "https://github.com/rudolfochrist/js-commons"
+  "homepage": "https://github.com/rudolfochrist/js-commons",
+  "dependencies": {
+    "allong.es": "^0.14.0"
+  },
+  "devDependencies": {
+    "claire": "^0.4.1",
+    "mocha": "^1.18.2"
+  }
 }
