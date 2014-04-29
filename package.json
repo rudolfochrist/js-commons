@@ -2,7 +2,7 @@
   "name": "js-commons",
   "version": "0.0.1",
   "description": "Personal collection of common javascript utilities",
-  "main": "lib/js-commons.js",
+  "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
   },
