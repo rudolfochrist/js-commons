@@ -4,7 +4,7 @@
   "description": "Personal collection of common javascript utilities",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha"
+    "test": "mocha -R spec"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
     "allong.es": "^0.14.0"
   },
   "devDependencies": {
+    "chai": "^1.9.1",
     "claire": "^0.4.1",
     "mocha": "^1.18.2"
   }
