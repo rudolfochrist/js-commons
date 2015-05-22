@@ -10,7 +10,7 @@ Personal collection of common javascript utilities.
 invert predicates
 
 ```javascript
-function isNumber(value) { return typeof value === 'number' };
+function isNumber(value) { "use-strict"; return typeof value === 'number' };
 isNumber(5);      // true
 not(isNumber)(5);  // false
 ```
