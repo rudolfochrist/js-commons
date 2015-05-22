@@ -11,6 +11,7 @@ invert predicates
 
 ```javascript
 function isNumber(value) { return typeof value === 'number' };
+isNumber(8);      // true
 isNumber(5);      // true
 not(isNumber)(5);  // false
 ```
